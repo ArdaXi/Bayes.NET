@@ -8,6 +8,6 @@ Then, to classify a list of phrases, use Classifier.Classify.
 
 == Authors ==
 
-* Ariën Holthuizen
+* AriÃ«n Holthuizen
 
 This library is released under the MIT licence. See LICENCE.txt for more info.
